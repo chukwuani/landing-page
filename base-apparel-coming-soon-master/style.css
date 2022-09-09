@@ -128,7 +128,7 @@ label{
     transition: all 1000s ease-in-out;
 }
 
-@media screen and (max-width: 375px ) {
+@media screen and (max-width: 540px ) {
     .logo{
         display: flex;
         width: 100%;
